@@ -1,0 +1,4 @@
+[console_scripts]
+draw_circle = robot_controller.draw_circle:main
+pose_subscriber = robot_controller.pose_subscriber:main
+test_node = robot_controller.first_node:main

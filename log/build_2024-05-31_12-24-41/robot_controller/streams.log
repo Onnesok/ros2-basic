@@ -1,0 +1,30 @@
+[0.531s] Invoking command in '/home/ratul/ros2_ws/build/robot_controller': PYTHONPATH=/home/ratul/ros2_ws/build/robot_controller/prefix_override:/home/ratul/ros2_ws/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ratul/ros2_ws/build/robot_controller/build --no-deps symlink_data
+[0.775s] running develop
+[0.776s] /home/ratul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.776s] !!
+[0.776s] 
+[0.776s]         ********************************************************************************
+[0.776s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.776s]         Instead, use pypa/build, pypa/installer or other
+[0.776s]         standards-based tools.
+[0.776s] 
+[0.776s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.776s]         ********************************************************************************
+[0.777s] 
+[0.777s] !!
+[0.777s]   easy_install.initialize_options(self)
+[0.927s] running egg_info
+[0.937s] writing robot_controller.egg-info/PKG-INFO
+[0.937s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[0.937s] writing entry points to robot_controller.egg-info/entry_points.txt
+[0.938s] writing requirements to robot_controller.egg-info/requires.txt
+[0.938s] writing top-level names to robot_controller.egg-info/top_level.txt
+[0.959s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.960s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.971s] running build_ext
+[0.971s] Creating /home/ratul/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot-controller.egg-link (link to .)
+[0.972s] Installing test_node script to /home/ratul/ros2_ws/install/robot_controller/lib/robot_controller
+[0.972s] 
+[0.972s] Installed /home/ratul/ros2_ws/build/robot_controller
+[0.972s] running symlink_data
+[0.992s] Invoked command in '/home/ratul/ros2_ws/build/robot_controller' returned '0': PYTHONPATH=/home/ratul/ros2_ws/build/robot_controller/prefix_override:/home/ratul/ros2_ws/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ratul/ros2_ws/build/robot_controller/build --no-deps symlink_data
