@@ -1,2 +1,2 @@
 ## Details will be added soon... 
-#Documenting ros2
+#Documenting ros2 so that it gets easier in the future
